@@ -1,0 +1,5 @@
+# Ignore Icarus Verilog compiled simulation binaries
+design_simple_inhibition
+
+# Ignore wave trace database files
+*.vcd
